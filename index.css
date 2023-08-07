@@ -1,0 +1,9 @@
+#container{
+    width:40rem ;
+    height: 20rem;
+    background-color: wheat;
+    margin: 4rem auto;
+}
+#output{
+    width: 30rem;
+}
